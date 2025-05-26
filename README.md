@@ -10,9 +10,11 @@ Key insights and recommendations for PCOS diagnosis and management.
 
 Dataset
 Source: Kaggle,open data porta
-Dataset link (cleaned) :- 
+Dataset link (cleaned) :- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/cleaned_pcos_data.csv
 Records: 541 rows with clinical and demographic details.
 Columns: Includes BMI, follicle counts, LH/FSH ratio, and PCOS status etc
 
+
 Dashboard :- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_DASHBOARD.png
+
 
