@@ -14,8 +14,7 @@ Dataset link (cleaned) :- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/
 Records: 541 rows with clinical and demographic details.
 Columns: Includes BMI, follicle counts, LH/FSH ratio, and PCOS status etc
 
-Data cleaning code in Colab:- 
-
+Data cleaning code in Colab:- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_data_cleaning.ipynb
 
 Dashboard :- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_DASHBOARD.png
 
