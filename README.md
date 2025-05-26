@@ -16,10 +16,10 @@ Columns: Includes BMI, follicle counts, LH/FSH ratio, and PCOS status etc
 
 
 
-#Unclean Dataset :-https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_data_without_infertility.xlsx
+# Unclean Dataset :-https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_data_without_infertility.xlsx
 
-#Data cleaning code in Colab:- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_data_cleaning.ipynb
+# Data cleaning code in Colab:- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_data_cleaning.ipynb
 
-Dashboard :- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_DASHBOARD.png
+# Dashboard :- https://github.com/Kartikatukam/PCOS_REPORT/blob/main/PCOS_DASHBOARD.png
 
 
